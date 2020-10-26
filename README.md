@@ -12,7 +12,7 @@
 - HTML
 - CSS
 - Javascript
-- React.js
+- ReactJS
 - redux / redux-saga
 - Styled-components
 - TypeScript(Will study if I can)
