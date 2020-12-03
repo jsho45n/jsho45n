@@ -23,6 +23,9 @@
 ### Portpolio
 https://www.notion.so/Jeon-Se-Hoon-60290664ce5c4716bda9a7a86205d2d5
 
+### 연락
+- tpgns20233@gmail.com & tpgns0223@dsm.hs.kr(학교이메일)
+
 ### Facebook
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100016474542789)](https://www.facebook.com/profile.php?id=100016474542789)
 
